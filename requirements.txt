@@ -1,0 +1,8 @@
+Django>=5.2,<5.3
+psycopg2>=2.9.10,<2.10
+pillow>=11.2.1,<11.3
+djangorestframework>=3.16.0,<3.17
+django-filter>=25.1,<25.2
+drf-spectacular>=0.28.0,<0.29 
+djangorestframework-simplejwt>=5.5.0,<5.6 
+
